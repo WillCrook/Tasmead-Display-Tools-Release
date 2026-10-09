@@ -1,0 +1,74 @@
+[
+  {
+    "module": "pyside-setup",
+    "version": "6.10.2",
+    "url": "https://download.qt.io/official_releases/QtForPython/pyside6/PySide6-6.10.2-src/pyside-setup-everywhere-src-6.10.2.tar.xz",
+    "sha256": "05eec38bb71bffff8860786e3c0766cc4b86affc72439bd246c54889bdcb7400",
+    "notice_files": 32,
+    "archive_includes_git_submodules": true
+  },
+  {
+    "module": "qtbase",
+    "version": "6.10.2",
+    "url": "https://codeload.github.com/qt/qtbase/tar.gz/refs/tags/v6.10.2",
+    "sha256": "95271bc1f32db239723f597ab1899e624e3b22a16678b88520dee51ad5035faa",
+    "notice_files": 178,
+    "archive_includes_git_submodules": false
+  },
+  {
+    "module": "qtdeclarative",
+    "version": "6.10.2",
+    "url": "https://codeload.github.com/qt/qtdeclarative/tar.gz/refs/tags/v6.10.2",
+    "sha256": "b3c1fa06ff918cfe5231dd4715438b6cd5b2df3e5affea3472ff303258734567",
+    "notice_files": 26,
+    "archive_includes_git_submodules": false
+  },
+  {
+    "module": "qtimageformats",
+    "version": "6.10.2",
+    "url": "https://codeload.github.com/qt/qtimageformats/tar.gz/refs/tags/v6.10.2",
+    "sha256": "934e6e248d2ab2e73a9eb779c80c3849c431898d38d92ff0c7a2bda9b983eff6",
+    "notice_files": 12,
+    "archive_includes_git_submodules": false
+  },
+  {
+    "module": "qtpositioning",
+    "version": "6.10.2",
+    "url": "https://codeload.github.com/qt/qtpositioning/tar.gz/refs/tags/v6.10.2",
+    "sha256": "d7cc67a09f60f33328cb5e94818149d3eb2ccdbcd3cd38a1dc537e3ff79b739b",
+    "notice_files": 20,
+    "archive_includes_git_submodules": false
+  },
+  {
+    "module": "qtserialport",
+    "version": "6.10.2",
+    "url": "https://codeload.github.com/qt/qtserialport/tar.gz/refs/tags/v6.10.2",
+    "sha256": "41f5b39cf0967ab883fd15d61a92dd60124664c1537fd71cfc7e7a7052f9420b",
+    "notice_files": 7,
+    "archive_includes_git_submodules": false
+  },
+  {
+    "module": "qtsvg",
+    "version": "6.10.2",
+    "url": "https://codeload.github.com/qt/qtsvg/tar.gz/refs/tags/v6.10.2",
+    "sha256": "70c58c2ad2d99ce1caf7e394e8e6c8a328563b70f97f9428e5c48d28d913a504",
+    "notice_files": 11,
+    "archive_includes_git_submodules": false
+  },
+  {
+    "module": "qtwebchannel",
+    "version": "6.10.2",
+    "url": "https://codeload.github.com/qt/qtwebchannel/tar.gz/refs/tags/v6.10.2",
+    "sha256": "99deb672c411f85278d9267477040adcb752019956c0847dfa7b386f449e2cb8",
+    "notice_files": 7,
+    "archive_includes_git_submodules": false
+  },
+  {
+    "module": "qtwebengine",
+    "version": "6.10.2",
+    "url": "https://codeload.github.com/qt/qtwebengine/tar.gz/refs/tags/v6.10.2",
+    "sha256": "99cb5d72f48f55a52a45baa62b9f5cfbbfb55b305e75f7616d8c12f0dfc6550a",
+    "notice_files": 25,
+    "archive_includes_git_submodules": false
+  }
+]

@@ -1,0 +1,2178 @@
+[
+  {
+    "name": "Darwin",
+    "path": "base/allocator/partition_allocator/src/partition_alloc/third_party/apple_apsl",
+    "licence": "APSL-2.0",
+    "files": [
+      "base/allocator/partition_allocator/src/partition_alloc/third_party/apple_apsl/LICENSE"
+    ]
+  },
+  {
+    "name": "CF",
+    "path": "base/allocator/partition_allocator/src/partition_alloc/third_party/apple_apsl",
+    "licence": "Apple Public Source License 2.0",
+    "files": [
+      "base/allocator/partition_allocator/src/partition_alloc/third_party/apple_apsl/LICENSE"
+    ]
+  },
+  {
+    "name": "CityHash",
+    "path": "base/third_party/cityhash",
+    "licence": "MIT",
+    "files": [
+      "base/third_party/cityhash/COPYING"
+    ]
+  },
+  {
+    "name": "CityHash",
+    "path": "base/third_party/cityhash_v103",
+    "licence": "MIT",
+    "files": [
+      "base/third_party/cityhash_v103/COPYING"
+    ]
+  },
+  {
+    "name": "Google Double Conversion",
+    "path": "base/third_party/double_conversion",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "base/third_party/double_conversion/LICENSE"
+    ]
+  },
+  {
+    "name": "Netscape Portable Runtime (NSPR)",
+    "path": "base/third_party/nspr",
+    "licence": "MPL-1.1",
+    "files": [
+      "base/third_party/nspr/LICENSE"
+    ]
+  },
+  {
+    "name": "Paul Hsieh's SuperFastHash",
+    "path": "base/third_party/superfasthash",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "base/third_party/superfasthash/LICENSE"
+    ]
+  },
+  {
+    "name": "google-glog's symbolization library",
+    "path": "base/third_party/symbolize",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "base/third_party/symbolize/LICENSE"
+    ]
+  },
+  {
+    "name": "xdg-user-dirs",
+    "path": "base/third_party/xdg_user_dirs",
+    "licence": "MIT",
+    "files": [
+      "base/third_party/xdg_user_dirs/LICENSE"
+    ]
+  },
+  {
+    "name": "Mozilla Personal Security Manager",
+    "path": "net/third_party/mozilla_security_manager",
+    "licence": "MPL-1.1",
+    "files": [
+      "net/third_party/mozilla_security_manager/LICENSE"
+    ]
+  },
+  {
+    "name": "Mozilla Windows Cert code",
+    "path": "net/third_party/mozilla_win",
+    "licence": "MPL-2.0",
+    "files": [
+      "net/third_party/mozilla_win/LICENSE"
+    ]
+  },
+  {
+    "name": "Network Security Services (NSS)",
+    "path": "net/third_party/nss",
+    "licence": "MPL-2.0",
+    "files": [
+      "net/third_party/nss/LICENSE"
+    ]
+  },
+  {
+    "name": "QUICHE",
+    "path": "net/third_party/quiche",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "net/third_party/quiche/src/LICENSE"
+    ]
+  },
+  {
+    "name": "URI Template Parser",
+    "path": "net/third_party/uri_template",
+    "licence": "Apache-2.0",
+    "files": [
+      "net/third_party/uri_template/LICENSE"
+    ]
+  },
+  {
+    "name": "Abseil",
+    "path": "third_party/abseil-cpp",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/abseil-cpp/LICENSE"
+    ]
+  },
+  {
+    "name": "Almost Native Graphics Layer Engine",
+    "path": "third_party/angle",
+    "licence": "BSD",
+    "files": [
+      "third_party/angle/LICENSE"
+    ]
+  },
+  {
+    "name": "xxHash",
+    "path": "third_party/angle/src/common/third_party/xxhash",
+    "licence": "BSD",
+    "files": [
+      "third_party/angle/src/common/third_party/xxhash/LICENSE"
+    ]
+  },
+  {
+    "name": "Granite",
+    "path": "third_party/angle/src/libANGLE/renderer/vulkan/shaders/src/third_party/etc_decoder",
+    "licence": "MIT",
+    "files": [
+      "third_party/angle/src/libANGLE/renderer/vulkan/shaders/src/third_party/etc_decoder/LICENSE"
+    ]
+  },
+  {
+    "name": "FideltyFX Single Pass Downsampler",
+    "path": "third_party/angle/src/libANGLE/renderer/vulkan/shaders/src/third_party/ffx_spd",
+    "licence": "MIT",
+    "files": [
+      "third_party/angle/src/libANGLE/renderer/vulkan/shaders/src/third_party/ffx_spd/LICENSE"
+    ]
+  },
+  {
+    "name": "NVidia Control X Extension Library",
+    "path": "third_party/angle/src/third_party/libXNVCtrl",
+    "licence": "MIT",
+    "files": [
+      "third_party/angle/src/third_party/libXNVCtrl/LICENSE"
+    ]
+  },
+  {
+    "name": "Volk Meta loader for Vulkan API",
+    "path": "third_party/angle/src/third_party/volk",
+    "licence": "MIT",
+    "files": [
+      "third_party/angle/src/third_party/volk/LICENSE.md"
+    ]
+  },
+  {
+    "name": "FlatBuffers",
+    "path": "third_party/angle/third_party/flatbuffers",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/angle/third_party/flatbuffers/LICENSE"
+    ]
+  },
+  {
+    "name": "SPIR-V Headers",
+    "path": "third_party/angle/third_party/spirv-headers",
+    "licence": "MIT",
+    "files": [
+      "third_party/angle/third_party/spirv-headers/LICENSE"
+    ]
+  },
+  {
+    "name": "SPIR-V Tools",
+    "path": "third_party/angle/third_party/spirv-tools",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/angle/third_party/spirv-tools/LICENSE"
+    ]
+  },
+  {
+    "name": "Vulkan API headers",
+    "path": "third_party/angle/third_party/vulkan-headers",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/angle/third_party/vulkan-headers/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Anonymous Tokens",
+    "path": "third_party/anonymous_tokens",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/anonymous_tokens/src/LICENSE"
+    ]
+  },
+  {
+    "name": "Darwin configd",
+    "path": "third_party/apple_apsl",
+    "licence": "APSL-2.0",
+    "files": [
+      "third_party/apple_apsl/LICENSE"
+    ]
+  },
+  {
+    "name": "ARCore SDK",
+    "path": "third_party/arcore-android-sdk",
+    "licence": "LGPL-2.1, MPL-1.1, BSL-1.0, MIT-0, CC0-1.0, Apache-2.0, SunPro, MIT, BSD-3-Clause, NPL-1.1, EPL-1.0, BSD-2-Clause, GPL-2.0",
+    "files": [
+      "third_party/arcore-android-sdk/LICENSE"
+    ]
+  },
+  {
+    "name": "ARCore SDK client library for Chrome",
+    "path": "third_party/arcore-android-sdk-client",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/arcore-android-sdk-client/LICENSE"
+    ]
+  },
+  {
+    "name": "AXE-CORE Accessibility Audit",
+    "path": "third_party/axe-core",
+    "licence": "MPL-2.0",
+    "files": [
+      "third_party/axe-core/LICENSE"
+    ]
+  },
+  {
+    "name": "Better together core components",
+    "path": "third_party/beto-core",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/beto-core/LICENSE"
+    ]
+  },
+  {
+    "name": "Implementation of WebDriver BiDi standard",
+    "path": "third_party/bidimapper",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/bidimapper/LICENSE"
+    ]
+  },
+  {
+    "name": "mitt",
+    "path": "third_party/bidimapper",
+    "licence": "MIT",
+    "files": [
+      "third_party/bidimapper/licenses/LICENSE.mitt"
+    ]
+  },
+  {
+    "name": "zod",
+    "path": "third_party/bidimapper",
+    "licence": "MIT",
+    "files": [
+      "third_party/bidimapper/licenses/LICENSE.zod"
+    ]
+  },
+  {
+    "name": "WebKit",
+    "path": "third_party/blink",
+    "licence": "BSD and LGPL v2 and LGPL v2.1",
+    "files": [
+      "third_party/blink/LICENSE_FOR_ABOUT_CREDITS"
+    ]
+  },
+  {
+    "name": "BoringSSL",
+    "path": "third_party/boringssl",
+    "licence": "MIT, BSD-3-Clause, OpenSSL, ISC, SSLeay",
+    "files": [
+      "third_party/boringssl/src/LICENSE"
+    ]
+  },
+  {
+    "name": "Fiat-Crypto: Synthesizing Correct-by-Construction Code for Cryptographic Primitives",
+    "path": "third_party/boringssl/src/third_party/fiat",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/boringssl/src/third_party/fiat/LICENSE"
+    ]
+  },
+  {
+    "name": "Brotli",
+    "path": "third_party/brotli",
+    "licence": "MIT",
+    "files": [
+      "third_party/brotli/LICENSE"
+    ]
+  },
+  {
+    "name": "bspatch",
+    "path": "third_party/bspatch",
+    "licence": "BSD-2-Clause",
+    "files": [
+      "third_party/bspatch/LICENSE"
+    ]
+  },
+  {
+    "name": "Cardboard SDK",
+    "path": "third_party/cardboard",
+    "licence": "LicenseRef-Unity-Companion-License-1.3, Apache-2.0",
+    "files": [
+      "third_party/cardboard/LICENSE"
+    ]
+  },
+  {
+    "name": "CastCore Publics",
+    "path": "third_party/cast_core",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/cast_core/LICENSE"
+    ]
+  },
+  {
+    "name": "BeautifulSoup",
+    "path": "third_party/catapult/third_party/beautifulsoup4",
+    "licence": "MIT",
+    "files": [
+      "third_party/catapult/third_party/beautifulsoup4/COPYING.txt"
+    ]
+  },
+  {
+    "name": "Polymer",
+    "path": "third_party/catapult/third_party/polymer",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/catapult/third_party/polymer/LICENSE.polymer"
+    ]
+  },
+  {
+    "name": "Polymer",
+    "path": "third_party/catapult/third_party/polymer3",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/catapult/third_party/polymer3/LICENSE.polymer"
+    ]
+  },
+  {
+    "name": "six",
+    "path": "third_party/catapult/third_party/six",
+    "licence": "MIT",
+    "files": [
+      "third_party/catapult/third_party/six/LICENSE"
+    ]
+  },
+  {
+    "name": "jpeg-js",
+    "path": "third_party/catapult/tracing/third_party/jpeg-js",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/catapult/tracing/third_party/jpeg-js/LICENSE"
+    ]
+  },
+  {
+    "name": "Oboe.js",
+    "path": "third_party/catapult/tracing/third_party/oboe",
+    "licence": "BSD-2-Clause-FreeBSD",
+    "files": [
+      "third_party/catapult/tracing/third_party/oboe/LICENCE"
+    ]
+  },
+  {
+    "name": "pako",
+    "path": "third_party/catapult/tracing/third_party/pako",
+    "licence": "MIT",
+    "files": [
+      "third_party/catapult/tracing/third_party/pako/LICENSE"
+    ]
+  },
+  {
+    "name": "Compact Encoding Detection",
+    "path": "third_party/ced",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/ced/LICENSE"
+    ]
+  },
+  {
+    "name": "Compact Language Detector v3",
+    "path": "third_party/cld_3",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/cld_3/LICENSE"
+    ]
+  },
+  {
+    "name": "Unicode Common Locale Data Repository",
+    "path": "third_party/cldr",
+    "licence": "Unicode-DFS-2016",
+    "files": [
+      "third_party/cldr/LICENSE"
+    ]
+  },
+  {
+    "name": "Google Chrome Content Analysis Connector Agent SDK",
+    "path": "third_party/content_analysis_sdk",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/content_analysis_sdk/LICENSE"
+    ]
+  },
+  {
+    "name": "Core ML Tools",
+    "path": "third_party/coremltools",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/coremltools/mlmodel/format/LICENSE"
+    ]
+  },
+  {
+    "name": "cpu_features",
+    "path": "third_party/cpu_features",
+    "licence": "BSD-2-Clause, Apache-2.0",
+    "files": [
+      "third_party/cpu_features/src/LICENSE"
+    ]
+  },
+  {
+    "name": "cpuinfo",
+    "path": "third_party/cpuinfo",
+    "licence": "BSD-2-Clause",
+    "files": [
+      "third_party/cpuinfo/src/LICENSE"
+    ]
+  },
+  {
+    "name": "CrabbyAvif - Library for decoding AVIF files.",
+    "path": "third_party/crabbyavif",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/crabbyavif/LICENSE"
+    ]
+  },
+  {
+    "name": "Crashpad",
+    "path": "third_party/crashpad",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/crashpad/crashpad/LICENSE"
+    ]
+  },
+  {
+    "name": "getopt",
+    "path": "third_party/crashpad/crashpad/third_party/getopt",
+    "licence": "Public domain",
+    "files": [
+      "third_party/crashpad/crashpad/third_party/getopt/LICENSE"
+    ]
+  },
+  {
+    "name": "xnu",
+    "path": "third_party/crashpad/crashpad/third_party/xnu",
+    "licence": "Apple Public Source License 2.0",
+    "files": [
+      "third_party/crashpad/crashpad/third_party/xnu/APPLE_LICENSE"
+    ]
+  },
+  {
+    "name": "CRC32C",
+    "path": "third_party/crc32c",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/crc32c/src/LICENSE"
+    ]
+  },
+  {
+    "name": "ChromeOS Components",
+    "path": "third_party/cros-components",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/cros-components/LICENSE"
+    ]
+  },
+  {
+    "name": "Chromium OS system API",
+    "path": "third_party/cros_system_api",
+    "licence": "BSD",
+    "files": [
+      "LICENSE.chromium_os"
+    ]
+  },
+  {
+    "name": "d3",
+    "path": "third_party/d3",
+    "licence": "ISC",
+    "files": [
+      "third_party/d3/src/LICENSE"
+    ]
+  },
+  {
+    "name": "dav1d is an AV1 decoder :)",
+    "path": "third_party/dav1d",
+    "licence": "BSD-2-Clause",
+    "files": [
+      "third_party/dav1d/LICENSE"
+    ]
+  },
+  {
+    "name": "Dawn",
+    "path": "third_party/dawn",
+    "licence": "BSD 3-Clause",
+    "files": [
+      "third_party/dawn/LICENSE"
+    ]
+  },
+  {
+    "name": "khronos_platform",
+    "path": "third_party/dawn/third_party/khronos",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/dawn/third_party/khronos/LICENSE"
+    ]
+  },
+  {
+    "name": "SPIR-V Headers",
+    "path": "third_party/dawn/third_party/spirv-headers",
+    "licence": "MIT",
+    "files": [
+      "third_party/dawn/third_party/spirv-headers/LICENSE"
+    ]
+  },
+  {
+    "name": "SPIR-V Tools",
+    "path": "third_party/dawn/third_party/spirv-tools",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/dawn/third_party/spirv-tools/LICENSE"
+    ]
+  },
+  {
+    "name": "Vulkan API headers",
+    "path": "third_party/dawn/third_party/vulkan-headers",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/dawn/third_party/vulkan-headers/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Blackmagic DeckLink SDK - Mac",
+    "path": "third_party/decklink",
+    "licence": "BSL-1.0",
+    "files": [
+      "third_party/decklink/LICENSE"
+    ]
+  },
+  {
+    "name": "Devtools-Frontend",
+    "path": "third_party/devtools-frontend",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/devtools-frontend/src/LICENSE"
+    ]
+  },
+  {
+    "name": "Acorn, a tiny, fast JavaScript parser written in JavaScript.",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/acorn",
+    "licence": "MIT",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/acorn/package/LICENSE"
+    ]
+  },
+  {
+    "name": "CodeMirror 5",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/codemirror",
+    "licence": "MIT",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/codemirror/package/LICENSE"
+    ]
+  },
+  {
+    "name": "CodeMirror 6",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/codemirror.next",
+    "licence": "MIT",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/codemirror.next/LICENSE"
+    ]
+  },
+  {
+    "name": "CSP Evaluator Core Library, a tool that allows developers to check if a Content Security Policy (CSP) serves as mitigation against XSS attacks",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/csp_evaluator",
+    "licence": "Apache",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/csp_evaluator/package/LICENSE"
+    ]
+  },
+  {
+    "name": "The Diff Match and Patch libraries offer robust algorithms to perform the operations required for synchronizing plain text.",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/diff",
+    "licence": "Apache License 2.0",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/diff/LICENSE"
+    ]
+  },
+  {
+    "name": "Lighthouse i18n.js",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/i18n",
+    "licence": "Apache License 2.0",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/i18n/LICENSE"
+    ]
+  },
+  {
+    "name": "intl-messageformat",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/intl-messageformat",
+    "licence": "New BSD",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/intl-messageformat/LICENSE"
+    ]
+  },
+  {
+    "name": "json5",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/json5",
+    "licence": "MIT",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/json5/LICENSE"
+    ]
+  },
+  {
+    "name": "Lighthouse",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/lighthouse",
+    "licence": "Apache License 2.0",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/lighthouse/LICENSE"
+    ]
+  },
+  {
+    "name": "Lit",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/lit",
+    "licence": "BSD-3",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/lit/LICENSE"
+    ]
+  },
+  {
+    "name": "Marked",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/marked",
+    "licence": "MIT",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/marked/LICENSE"
+    ]
+  },
+  {
+    "name": "Puppeteer Core",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/puppeteer",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/puppeteer/LICENSE"
+    ]
+  },
+  {
+    "name": "@puppeteer/replay",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/puppeteer-replay",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/puppeteer-replay/package/LICENSE"
+    ]
+  },
+  {
+    "name": "mitt",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/mitt",
+    "licence": "MIT",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/mitt/LICENSE"
+    ]
+  },
+  {
+    "name": "parsel",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/parsel",
+    "licence": "MIT",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/parsel/LICENSE"
+    ]
+  },
+  {
+    "name": "rxjs",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/rxjs",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/puppeteer/third_party/rxjs/LICENSE"
+    ]
+  },
+  {
+    "name": "third-party-web",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/third-party-web",
+    "licence": "MIT",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/third-party-web/LICENSE"
+    ]
+  },
+  {
+    "name": "Wasmparser",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/wasmparser",
+    "licence": "Apache",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/wasmparser/package/LICENSE"
+    ]
+  },
+  {
+    "name": "Web Vitals",
+    "path": "third_party/devtools-frontend/src/front_end/third_party/web-vitals",
+    "licence": "Apache",
+    "files": [
+      "third_party/devtools-frontend/src/front_end/third_party/web-vitals/package/LICENSE"
+    ]
+  },
+  {
+    "name": "The Incremental Distributed Point Functions library",
+    "path": "third_party/distributed_point_functions",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/distributed_point_functions/LICENSE"
+    ]
+  },
+  {
+    "name": "dom-distiller-js",
+    "path": "third_party/dom_distiller_js",
+    "licence": "BSD-3-Clause, Apache-2.0",
+    "files": [
+      "third_party/dom_distiller_js/LICENSE"
+    ]
+  },
+  {
+    "name": "Eigen",
+    "path": "third_party/eigen3",
+    "licence": "MPL-2.0",
+    "files": [
+      "third_party/eigen3/LICENSE"
+    ]
+  },
+  {
+    "name": "emoji-metadata",
+    "path": "third_party/emoji-metadata",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/emoji-metadata/LICENSE"
+    ]
+  },
+  {
+    "name": "Emoji Segmenter",
+    "path": "third_party/emoji-segmenter",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/emoji-segmenter/LICENSE"
+    ]
+  },
+  {
+    "name": "Expat XML Parser",
+    "path": "third_party/expat",
+    "licence": "MIT",
+    "files": [
+      "third_party/expat/src/expat/COPYING"
+    ]
+  },
+  {
+    "name": "FarmHash",
+    "path": "third_party/farmhash",
+    "licence": "MIT",
+    "files": [
+      "third_party/farmhash/LICENSE"
+    ]
+  },
+  {
+    "name": "fast_float",
+    "path": "third_party/fast_float",
+    "licence": "MIT",
+    "files": [
+      "third_party/fast_float/src/LICENSE-MIT"
+    ]
+  },
+  {
+    "name": "V8 fork of fdlibm",
+    "path": "third_party/fdlibm",
+    "licence": "SunPro",
+    "files": [
+      "third_party/fdlibm/LICENSE"
+    ]
+  },
+  {
+    "name": "ffmpeg",
+    "path": "third_party/ffmpeg",
+    "licence": "LGPL 2.1",
+    "files": [
+      "third_party/ffmpeg/CREDITS.chromium"
+    ]
+  },
+  {
+    "name": "2-dim General Purpose FFT (Fast Fourier/Cosine/Sine Transform) Package",
+    "path": "third_party/fft2d",
+    "licence": "FFT2D",
+    "files": [
+      "third_party/fft2d/LICENSE"
+    ]
+  },
+  {
+    "name": "flac",
+    "path": "third_party/flac",
+    "licence": "BSD",
+    "files": [
+      "third_party/flac/COPYING.Xiph"
+    ]
+  },
+  {
+    "name": "FlatBuffers",
+    "path": "third_party/flatbuffers",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/flatbuffers/LICENSE"
+    ]
+  },
+  {
+    "name": "fontconfig",
+    "path": "third_party/fontconfig",
+    "licence": "public-domain-md5, MIT-Modern-Variant, HPND-sell-variant, MIT",
+    "files": [
+      "third_party/fontconfig/src/COPYING"
+    ]
+  },
+  {
+    "name": "FP16",
+    "path": "third_party/fp16",
+    "licence": "MIT",
+    "files": [
+      "third_party/fp16/LICENSE"
+    ]
+  },
+  {
+    "name": "FreeType",
+    "path": "third_party/freetype",
+    "licence": "FTL",
+    "files": [
+      "third_party/freetype/src/docs/FTL.TXT"
+    ]
+  },
+  {
+    "name": "Fuchsia GN SDK",
+    "path": "third_party/fuchsia-gn-sdk",
+    "licence": "BSD-2-Clause",
+    "files": [
+      "third_party/fuchsia-gn-sdk/LICENSE"
+    ]
+  },
+  {
+    "name": "Fuse.js",
+    "path": "third_party/fusejs",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/fusejs/LICENSE"
+    ]
+  },
+  {
+    "name": "FXDiv",
+    "path": "third_party/fxdiv",
+    "licence": "MIT",
+    "files": [
+      "third_party/fxdiv/src/LICENSE"
+    ]
+  },
+  {
+    "name": "gemmlowp",
+    "path": "third_party/gemmlowp",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/gemmlowp/LICENSE"
+    ]
+  },
+  {
+    "name": "GifPlayer Animated GIF Library",
+    "path": "third_party/gif_player",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/gif_player/LICENSE"
+    ]
+  },
+  {
+    "name": "Google Closure Library",
+    "path": "third_party/google-closure-library",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/google-closure-library/LICENSE"
+    ]
+  },
+  {
+    "name": "harfbuzz-ng",
+    "path": "third_party/harfbuzz-ng",
+    "licence": "MIT-Modern-Variant",
+    "files": [
+      "third_party/harfbuzz-ng/src/COPYING"
+    ]
+  },
+  {
+    "name": "Highway: C++ library for SIMD",
+    "path": "third_party/highway",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/highway/LICENSE"
+    ]
+  },
+  {
+    "name": "hunspell",
+    "path": "third_party/hunspell",
+    "licence": "MPL-1.1",
+    "files": [
+      "third_party/hunspell/COPYING.MPL"
+    ]
+  },
+  {
+    "name": "hyphenation-patterns",
+    "path": "third_party/hyphenation-patterns",
+    "licence": "Unicode-DFS-2015, LGPL-2.1, Unlicense, MPL-1.1, GNU-All-permissive-Copying-License, MIT, CC-BY-3.0, BSD-3-Clause, zxing, MPL-2.0",
+    "files": [
+      "third_party/hyphenation-patterns/LICENSE"
+    ]
+  },
+  {
+    "name": "IAccessible2 COM interfaces for accessibility",
+    "path": "third_party/iaccessible2",
+    "licence": "BSD-3-Clause, BSD-2-Clause",
+    "files": [
+      "third_party/iaccessible2/LICENSE"
+    ]
+  },
+  {
+    "name": "iccjpeg",
+    "path": "third_party/iccjpeg",
+    "licence": "IJG",
+    "files": [
+      "third_party/iccjpeg/LICENSE"
+    ]
+  },
+  {
+    "name": "icu",
+    "path": "third_party/icu",
+    "licence": "MIT",
+    "files": [
+      "third_party/icu/LICENSE"
+    ]
+  },
+  {
+    "name": "Ink",
+    "path": "third_party/ink",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/ink/LICENSE"
+    ]
+  },
+  {
+    "name": "Ink Stroke Modeler",
+    "path": "third_party/ink_stroke_modeler",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/ink_stroke_modeler/LICENSE"
+    ]
+  },
+  {
+    "name": "inspector protocol",
+    "path": "third_party/inspector_protocol",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/inspector_protocol/LICENSE"
+    ]
+  },
+  {
+    "name": "ipcz",
+    "path": "third_party/ipcz",
+    "licence": "BSD",
+    "files": [
+      "third_party/ipcz/LICENSE"
+    ]
+  },
+  {
+    "name": "ISimpleDOM COM interfaces for accessibility",
+    "path": "third_party/isimpledom",
+    "licence": "MPL-1.1",
+    "files": [
+      "third_party/isimpledom/LICENSE"
+    ]
+  },
+  {
+    "name": "JNI Zero",
+    "path": "third_party/jni_zero",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/jni_zero/LICENSE"
+    ]
+  },
+  {
+    "name": "jsoncpp",
+    "path": "third_party/jsoncpp",
+    "licence": "JsonCPP",
+    "files": [
+      "third_party/jsoncpp/LICENSE"
+    ]
+  },
+  {
+    "name": "jszip",
+    "path": "third_party/jszip",
+    "licence": "MIT",
+    "files": [
+      "third_party/jszip/LICENSE"
+    ]
+  },
+  {
+    "name": "Khronos header files",
+    "path": "third_party/khronos",
+    "licence": "MIT/X11, SGI Free Software License B",
+    "files": [
+      "third_party/khronos/LICENSE"
+    ]
+  },
+  {
+    "name": "Kotlin Standard Library",
+    "path": "third_party/kotlin_stdlib",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/kotlin_stdlib/LICENSE"
+    ]
+  },
+  {
+    "name": "Lens Protos",
+    "path": "third_party/lens_server_proto",
+    "licence": "BSD",
+    "files": [
+      "third_party/lens_server_proto/LICENSE"
+    ]
+  },
+  {
+    "name": "LevelDB: A Fast Persistent Key-Value Store",
+    "path": "third_party/leveldatabase",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/leveldatabase/src/LICENSE"
+    ]
+  },
+  {
+    "name": "libaddressinput",
+    "path": "third_party/libaddressinput",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/libaddressinput/LICENSE"
+    ]
+  },
+  {
+    "name": "Alliance for Open Media Video Codec",
+    "path": "third_party/libaom",
+    "licence": "BSD-2-Clause, Patent",
+    "files": [
+      "third_party/libaom/source/libaom/LICENSE",
+      "third_party/libaom/source/libaom/PATENTS"
+    ]
+  },
+  {
+    "name": "libavif - Library for encoding and decoding .avif files",
+    "path": "third_party/libavif",
+    "licence": "BSD-2-Clause, MIT",
+    "files": [
+      "third_party/libavif/src/LICENSE"
+    ]
+  },
+  {
+    "name": "libbrlapi",
+    "path": "third_party/libbrlapi",
+    "licence": "LGPL-2.1",
+    "files": [
+      "third_party/libbrlapi/LICENSE"
+    ]
+  },
+  {
+    "name": "libcxx",
+    "path": "third_party/libc++",
+    "licence": "NCSA, Apache-with-LLVM-Exception, MIT",
+    "files": [
+      "third_party/libc++/src/LICENSE.TXT"
+    ]
+  },
+  {
+    "name": "libcxxabi",
+    "path": "third_party/libc++abi",
+    "licence": "NCSA, Apache-with-LLVM-Exception, MIT",
+    "files": [
+      "third_party/libc++abi/src/LICENSE.TXT"
+    ]
+  },
+  {
+    "name": "libei",
+    "path": "third_party/libei",
+    "licence": "MIT",
+    "files": [
+      "third_party/libei/LICENSE"
+    ]
+  },
+  {
+    "name": "libgav1",
+    "path": "third_party/libgav1",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/libgav1/src/LICENSE"
+    ]
+  },
+  {
+    "name": "libipp",
+    "path": "third_party/libipp",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/libipp/LICENSE"
+    ]
+  },
+  {
+    "name": "libjingle XMPP and xmllite libraries",
+    "path": "third_party/libjingle_xmpp",
+    "licence": "BSD",
+    "files": [
+      "third_party/libjingle_xmpp/LICENSE"
+    ]
+  },
+  {
+    "name": "libjpeg-turbo",
+    "path": "third_party/libjpeg_turbo",
+    "licence": "IJG, BSD-3, Zlib",
+    "files": [
+      "third_party/libjpeg_turbo/LICENSE.md"
+    ]
+  },
+  {
+    "name": "libpng",
+    "path": "third_party/libpng",
+    "licence": "Libpng-2.0, Libpng",
+    "files": [
+      "third_party/libpng/LICENSE"
+    ]
+  },
+  {
+    "name": "libprotobuf-mutator",
+    "path": "third_party/libprotobuf-mutator",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/libprotobuf-mutator/src/LICENSE"
+    ]
+  },
+  {
+    "name": "libsecret",
+    "path": "third_party/libsecret",
+    "licence": "LGPL-2.1",
+    "files": [
+      "third_party/libsecret/LICENSE"
+    ]
+  },
+  {
+    "name": "libsrtp",
+    "path": "third_party/libsrtp",
+    "licence": "3-clause BSD",
+    "files": [
+      "third_party/libsrtp/LICENSE"
+    ]
+  },
+  {
+    "name": "Android Explicit Synchronization",
+    "path": "third_party/libsync",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/libsync/LICENSE"
+    ]
+  },
+  {
+    "name": "Libtess2",
+    "path": "third_party/libtess2",
+    "licence": "SGI Free Software License B",
+    "files": [
+      "third_party/libtess2/LICENSE"
+    ]
+  },
+  {
+    "name": "libunwind",
+    "path": "third_party/libunwind",
+    "licence": "NCSA, Apache-with-LLVM-Exception, MIT",
+    "files": [
+      "third_party/libunwind/src/LICENSE.TXT"
+    ]
+  },
+  {
+    "name": "URL Pattern Library",
+    "path": "third_party/liburlpattern",
+    "licence": "MIT",
+    "files": [
+      "third_party/liburlpattern/LICENSE"
+    ]
+  },
+  {
+    "name": "libusbx",
+    "path": "third_party/libusb",
+    "licence": "LGPL-2.1",
+    "files": [
+      "third_party/libusb/src/COPYING"
+    ]
+  },
+  {
+    "name": "Protected Content Interface for libva",
+    "path": "third_party/libva_protected_content",
+    "licence": "MIT",
+    "files": [
+      "third_party/libva_protected_content/LICENSE"
+    ]
+  },
+  {
+    "name": "libvpx",
+    "path": "third_party/libvpx",
+    "licence": "BSD-3-Clause, Patent",
+    "files": [
+      "third_party/libvpx/source/libvpx/LICENSE",
+      "third_party/libvpx/source/libvpx/PATENTS"
+    ]
+  },
+  {
+    "name": "WebM container parser and writer.",
+    "path": "third_party/libwebm",
+    "licence": "BSD-3-Clause, Patent",
+    "files": [
+      "third_party/libwebm/source/LICENSE.TXT",
+      "third_party/libwebm/source/PATENTS.TXT"
+    ]
+  },
+  {
+    "name": "WebP image encoder/decoder",
+    "path": "third_party/libwebp",
+    "licence": "BSD-3-Clause, Patent",
+    "files": [
+      "third_party/libwebp/src/COPYING",
+      "third_party/libwebp/src/PATENTS"
+    ]
+  },
+  {
+    "name": "libx11",
+    "path": "third_party/libx11",
+    "licence": "MIT",
+    "files": [
+      "third_party/libx11/LICENSE"
+    ]
+  },
+  {
+    "name": "libxcb-keysyms",
+    "path": "third_party/libxcb-keysyms",
+    "licence": "X11",
+    "files": [
+      "third_party/libxcb-keysyms/LICENSE"
+    ]
+  },
+  {
+    "name": "libxml",
+    "path": "third_party/libxml",
+    "licence": "MIT",
+    "files": [
+      "third_party/libxml/src/Copyright"
+    ]
+  },
+  {
+    "name": "libxslt",
+    "path": "third_party/libxslt",
+    "licence": "X11",
+    "files": [
+      "third_party/libxslt/src/Copyright"
+    ]
+  },
+  {
+    "name": "libyuv",
+    "path": "third_party/libyuv",
+    "licence": "BSD",
+    "files": [
+      "third_party/libyuv/LICENSE"
+    ]
+  },
+  {
+    "name": "libzip",
+    "path": "third_party/libzip",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/libzip/LICENSE"
+    ]
+  },
+  {
+    "name": "Lit",
+    "path": "third_party/lit",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/lit/LICENSE"
+    ]
+  },
+  {
+    "name": "llvm-libc",
+    "path": "third_party/llvm-libc",
+    "licence": "MIT, NCSA",
+    "files": [
+      "third_party/llvm-libc/src/LICENSE.TXT"
+    ]
+  },
+  {
+    "name": "Lottie Web",
+    "path": "third_party/lottie",
+    "licence": "MIT",
+    "files": [
+      "third_party/lottie/LICENSE"
+    ]
+  },
+  {
+    "name": "linux-syscall-support",
+    "path": "third_party/lss",
+    "licence": "BSD",
+    "files": [
+      "third_party/lss/LICENSE"
+    ]
+  },
+  {
+    "name": "LZMA SDK",
+    "path": "third_party/lzma_sdk",
+    "licence": "LZMA-SDK-9.22",
+    "files": [
+      "third_party/lzma_sdk/LICENSE"
+    ]
+  },
+  {
+    "name": "Material color utilities",
+    "path": "third_party/material_color_utilities",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/material_color_utilities/LICENSE"
+    ]
+  },
+  {
+    "name": "Material Design Icons",
+    "path": "third_party/material_design_icons",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/material_design_icons/LICENSE"
+    ]
+  },
+  {
+    "name": "Material Web Components",
+    "path": "third_party/material_web_components",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/material_web_components/LICENSE"
+    ]
+  },
+  {
+    "name": "MediaPipe",
+    "path": "third_party/mediapipe",
+    "licence": "Apache-2.0, X11-Lucent",
+    "files": [
+      "third_party/mediapipe/LICENSE"
+    ]
+  },
+  {
+    "name": "mesa_headers",
+    "path": "third_party/mesa_headers",
+    "licence": "MIT, SGI-B-2.0",
+    "files": [
+      "third_party/mesa_headers/LICENSE"
+    ]
+  },
+  {
+    "name": "Metrics Protos",
+    "path": "third_party/metrics_proto",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/metrics_proto/LICENSE"
+    ]
+  },
+  {
+    "name": "Headers for DirectX APIs.",
+    "path": "third_party/microsoft_dxheaders",
+    "licence": "MIT",
+    "files": [
+      "third_party/microsoft_dxheaders/LICENSE"
+    ]
+  },
+  {
+    "name": "Headers for the Windows 10 WebAuthn API (webauthn.dll)",
+    "path": "third_party/microsoft_webauthn",
+    "licence": "MIT",
+    "files": [
+      "third_party/microsoft_webauthn/LICENSE"
+    ]
+  },
+  {
+    "name": "minigbm",
+    "path": "third_party/minigbm",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/minigbm/LICENSE"
+    ]
+  },
+  {
+    "name": "modp base64 decoder",
+    "path": "third_party/modp_b64",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/modp_b64/LICENSE"
+    ]
+  },
+  {
+    "name": "Nearby Connections Library",
+    "path": "third_party/nearby",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/nearby/LICENSE"
+    ]
+  },
+  {
+    "name": "ARM_NEON_2_x86_SSE",
+    "path": "third_party/neon_2_sse",
+    "licence": "BSD-Source-Code",
+    "files": [
+      "third_party/neon_2_sse/LICENSE"
+    ]
+  },
+  {
+    "name": "Lit",
+    "path": "third_party/node",
+    "licence": "BSD 3-Clause",
+    "files": [
+      "third_party/node/LICENSE"
+    ]
+  },
+  {
+    "name": "Mediapipe Tasks Vision",
+    "path": "third_party/node",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/node/LICENSE"
+    ]
+  },
+  {
+    "name": "Microsoft Authentication Library for JavaScript (MSAL.js) for Browser-Based Single-Page Applications",
+    "path": "third_party/node",
+    "licence": "MIT",
+    "files": [
+      "third_party/node/MSAL_LICENSE"
+    ]
+  },
+  {
+    "name": "Omnibox Protos",
+    "path": "third_party/omnibox_proto",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/omnibox_proto/LICENSE"
+    ]
+  },
+  {
+    "name": "One Euro Filter",
+    "path": "third_party/one_euro_filter",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/one_euro_filter/LICENSE"
+    ]
+  },
+  {
+    "name": "OpenH264",
+    "path": "third_party/openh264",
+    "licence": "BSD-2-Clause",
+    "files": [
+      "third_party/openh264/src/LICENSE"
+    ]
+  },
+  {
+    "name": "Open Screen Protocol Library",
+    "path": "third_party/openscreen",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/openscreen/src/LICENSE"
+    ]
+  },
+  {
+    "name": "abseil",
+    "path": "third_party/openscreen/src/third_party/abseil",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/abseil-cpp/LICENSE"
+    ]
+  },
+  {
+    "name": "BoringSSL",
+    "path": "third_party/openscreen/src/third_party/boringssl",
+    "licence": "BSDish",
+    "files": [
+      "third_party/boringssl/src/LICENSE"
+    ]
+  },
+  {
+    "name": "jsoncpp",
+    "path": "third_party/openscreen/src/third_party/jsoncpp",
+    "licence": "MIT",
+    "files": [
+      "third_party/jsoncpp/LICENSE"
+    ]
+  },
+  {
+    "name": "Protocol Buffers",
+    "path": "third_party/openscreen/src/third_party/protobuf",
+    "licence": "BSD",
+    "files": [
+      "third_party/openscreen/src/third_party/protobuf/LICENSE"
+    ]
+  },
+  {
+    "name": "Tiny CBOR",
+    "path": "third_party/openscreen/src/third_party/tinycbor",
+    "licence": "MIT",
+    "files": [
+      "third_party/openscreen/src/third_party/tinycbor/src/LICENSE"
+    ]
+  },
+  {
+    "name": "opus",
+    "path": "third_party/opus",
+    "licence": "Opus-Patent-BSD-3-Clause",
+    "files": [
+      "third_party/opus/src/COPYING"
+    ]
+  },
+  {
+    "name": "OTS (OpenType Sanitizer)",
+    "path": "third_party/ots",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/ots/LICENSE"
+    ]
+  },
+  {
+    "name": "PDFium",
+    "path": "third_party/pdfium",
+    "licence": "BSD",
+    "files": [
+      "third_party/pdfium/LICENSE"
+    ]
+  },
+  {
+    "name": "Anti-Grain Geometry",
+    "path": "third_party/pdfium/third_party/agg23",
+    "licence": "MIT",
+    "files": [
+      "third_party/pdfium/third_party/agg23/copying"
+    ]
+  },
+  {
+    "name": "FP16",
+    "path": "third_party/pdfium/third_party/fp16",
+    "licence": "MIT",
+    "files": [
+      "third_party/pdfium/third_party/fp16/LICENSE"
+    ]
+  },
+  {
+    "name": "FreeType",
+    "path": "third_party/pdfium/third_party/freetype",
+    "licence": "FreeType License (FTL)",
+    "files": [
+      "third_party/pdfium/third_party/freetype/FTL.TXT"
+    ]
+  },
+  {
+    "name": "Highway: C++ library for SIMD",
+    "path": "third_party/pdfium/third_party/highway",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/pdfium/third_party/highway/LICENSE"
+    ]
+  },
+  {
+    "name": "Little CMS",
+    "path": "third_party/pdfium/third_party/lcms",
+    "licence": "MIT License",
+    "files": [
+      "third_party/pdfium/third_party/lcms/LICENSE"
+    ]
+  },
+  {
+    "name": "OpenJPEG",
+    "path": "third_party/pdfium/third_party/libopenjpeg",
+    "licence": "2-clause BSD",
+    "files": [
+      "third_party/pdfium/third_party/libopenjpeg/LICENSE"
+    ]
+  },
+  {
+    "name": "LibTIFF",
+    "path": "third_party/pdfium/third_party/libtiff",
+    "licence": "BSD",
+    "files": [
+      "third_party/pdfium/third_party/libtiff/LICENSE.md"
+    ]
+  },
+  {
+    "name": "Perfetto",
+    "path": "third_party/perfetto",
+    "licence": "Apache2",
+    "files": [
+      "third_party/perfetto/LICENSE"
+    ]
+  },
+  {
+    "name": "PFFFT: a pretty fast FFT.",
+    "path": "third_party/pffft",
+    "licence": "pffft",
+    "files": [
+      "third_party/pffft/LICENSE"
+    ]
+  },
+  {
+    "name": "Polymer",
+    "path": "third_party/polymer",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/polymer/LICENSE.polymer"
+    ]
+  },
+  {
+    "name": "Private Join and Compute subset",
+    "path": "third_party/private-join-and-compute",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/private-join-and-compute/src/LICENSE"
+    ]
+  },
+  {
+    "name": "PSM (Private Set Membership) client side",
+    "path": "third_party/private_membership",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/private_membership/LICENSE"
+    ]
+  },
+  {
+    "name": "Protocol Buffers",
+    "path": "third_party/protobuf",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/protobuf/LICENSE"
+    ]
+  },
+  {
+    "name": "Protocol Buffers (javascript)",
+    "path": "third_party/protobuf-javascript",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/protobuf-javascript/LICENSE"
+    ]
+  },
+  {
+    "name": "pthreadpool",
+    "path": "third_party/pthreadpool",
+    "licence": "BSD-2-Clause",
+    "files": [
+      "third_party/pthreadpool/src/LICENSE"
+    ]
+  },
+  {
+    "name": "Puffin deterministic deflate recompressor",
+    "path": "third_party/puffin",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/puffin/LICENSE"
+    ]
+  },
+  {
+    "name": "rapidhash",
+    "path": "third_party/rapidhash",
+    "licence": "BSD-2-Clause",
+    "files": [
+      "third_party/rapidhash/LICENSE"
+    ]
+  },
+  {
+    "name": "re2 - an efficient, principled regular expression library",
+    "path": "third_party/re2",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/re2/LICENSE"
+    ]
+  },
+  {
+    "name": "rjsmin",
+    "path": "third_party/rjsmin",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/rjsmin/LICENSE"
+    ]
+  },
+  {
+    "name": "Recurrent neural network for audio noise reduction",
+    "path": "third_party/rnnoise",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/rnnoise/COPYING"
+    ]
+  },
+  {
+    "name": "The ruy matrix multiplication library",
+    "path": "third_party/ruy",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/ruy/LICENSE"
+    ]
+  },
+  {
+    "name": "ScreenAI Library",
+    "path": "third_party/screen-ai",
+    "licence": "Apache-2.0,Apache-with-LLVM-Exception,Beerware,BLAS,BSD-2-Clause,BSD-3-Clause,BSD-4.3TAHOE,BSD-Source-Code,BSL-1.0,Caffe,CC-BY-3.0,CERN,Entenssa,FFT2D,GPL-3.0-with-autoconf-exception,ICU,IJG,ISC,Khronos,Libpng,Libpng-2.0,libtiff,LicenseRef-base64-cpp,LicenseRef-OpenGLUT,MIT,MPL-2.0,NAIST-2003,OpenSSL,Punycode,SGI-B-2.0,SolarDesigner,SSLeay,Unicode-3.0,WebM-Project-Patent,X11-Lucent,Zlib",
+    "files": [
+      "third_party/screen-ai/THIRD_PARTY_LICENSES"
+    ]
+  },
+  {
+    "name": "Search Engines resources",
+    "path": "third_party/search_engines_data",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "Secure Message",
+    "path": "third_party/securemessage",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/securemessage/LICENSE"
+    ]
+  },
+  {
+    "name": "Selenium Atoms",
+    "path": "third_party/selenium-atoms",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/selenium-atoms/LICENSE"
+    ]
+  },
+  {
+    "name": "Sizzle",
+    "path": "third_party/selenium-atoms",
+    "licence": "MIT",
+    "files": [
+      "third_party/selenium-atoms/LICENSE.sizzle"
+    ]
+  },
+  {
+    "name": "Wicked Good XPath",
+    "path": "third_party/selenium-atoms",
+    "licence": "MIT",
+    "files": [
+      "third_party/selenium-atoms/LICENSE.wgxpath"
+    ]
+  },
+  {
+    "name": "Sentencepiece",
+    "path": "third_party/sentencepiece",
+    "licence": "BSD-3-Clause, Apache-2.0, MIT",
+    "files": [
+      "third_party/sentencepiece/LICENSE"
+    ]
+  },
+  {
+    "name": "Simple Homomorphic Encryption Library with Lattices",
+    "path": "third_party/shell-encryption",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/shell-encryption/src/LICENSE"
+    ]
+  },
+  {
+    "name": "simdutf unicode transcoder",
+    "path": "third_party/simdutf",
+    "licence": "MIT",
+    "files": [
+      "third_party/simdutf/LICENSE"
+    ]
+  },
+  {
+    "name": "simplejson",
+    "path": "third_party/simplejson",
+    "licence": "MIT",
+    "files": [
+      "third_party/simplejson/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Skia",
+    "path": "third_party/skia",
+    "licence": "BSD",
+    "files": [
+      "third_party/skia/LICENSE"
+    ]
+  },
+  {
+    "name": "SMHasher",
+    "path": "third_party/smhasher",
+    "licence": "MIT, Public Domain",
+    "files": [
+      "third_party/smhasher/LICENSE"
+    ]
+  },
+  {
+    "name": "Snappy: A fast compressor/decompressor",
+    "path": "third_party/snappy",
+    "licence": "BSD-3-Clause, CC-BY-4.0, MIT, CC-BY-3.0",
+    "files": [
+      "third_party/snappy/src/COPYING"
+    ]
+  },
+  {
+    "name": "Speech Dispatcher",
+    "path": "third_party/speech-dispatcher",
+    "licence": "LGPL-2.1",
+    "files": [
+      "third_party/speech-dispatcher/COPYING.LGPL"
+    ]
+  },
+  {
+    "name": "SPIR-V Headers",
+    "path": "third_party/spirv-headers",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/spirv-headers/LICENSE"
+    ]
+  },
+  {
+    "name": "SPIR-V Tools",
+    "path": "third_party/spirv-tools",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/spirv-tools/LICENSE"
+    ]
+  },
+  {
+    "name": "sqlite",
+    "path": "third_party/sqlite",
+    "licence": "blessing",
+    "files": [
+      "third_party/sqlite/LICENSE"
+    ]
+  },
+  {
+    "name": "EasyList",
+    "path": "third_party/subresource-filter-ruleset",
+    "licence": "GPL-3.0, CC-BY-SA-3.0",
+    "files": [
+      "third_party/subresource-filter-ruleset/LICENSE"
+    ]
+  },
+  {
+    "name": "SwiftShader",
+    "path": "third_party/swiftshader",
+    "licence": "Apache 2.0 and compatible licenses",
+    "files": [
+      "third_party/swiftshader/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "SPIRV-Headers",
+    "path": "third_party/swiftshader/third_party/SPIRV-Headers",
+    "licence": "Apache 2.0",
+    "files": []
+  },
+  {
+    "name": "SPIRV-Tools",
+    "path": "third_party/swiftshader/third_party/SPIRV-Tools",
+    "licence": "Apache 2.0",
+    "files": []
+  },
+  {
+    "name": "TensorFlow Text",
+    "path": "third_party/tensorflow-text",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/tensorflow-text/LICENSE"
+    ]
+  },
+  {
+    "name": "TensorFlow Models",
+    "path": "third_party/tensorflow_models",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/tensorflow_models/src/LICENSE"
+    ]
+  },
+  {
+    "name": "Text Fragments Polyfill",
+    "path": "third_party/text-fragments-polyfill",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/text-fragments-polyfill/LICENSE"
+    ]
+  },
+  {
+    "name": "TensorFlow Lite Support",
+    "path": "third_party/tflite_support",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/tflite_support/LICENSE"
+    ]
+  },
+  {
+    "name": "UKey2",
+    "path": "third_party/ukey2",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/ukey2/LICENSE"
+    ]
+  },
+  {
+    "name": "ChromiumUpdater",
+    "path": "third_party/updater",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/updater/LICENSE"
+    ]
+  },
+  {
+    "name": "The USB ID Repository",
+    "path": "third_party/usb_ids",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/usb_ids/LICENSE"
+    ]
+  },
+  {
+    "name": "libutf",
+    "path": "third_party/utf",
+    "licence": "Unicode-DFS-2015, MIT",
+    "files": [
+      "third_party/utf/LICENSE"
+    ]
+  },
+  {
+    "name": "v4l-utils",
+    "path": "third_party/v4l-utils",
+    "licence": "LGPL-2.1",
+    "files": [
+      "third_party/v4l-utils/COPYING.libv4l"
+    ]
+  },
+  {
+    "name": "Vulkan Deps",
+    "path": "third_party/vulkan-deps",
+    "licence": "BSD",
+    "files": [
+      "third_party/vulkan-deps/LICENSE"
+    ]
+  },
+  {
+    "name": "SPIR-V Headers",
+    "path": "third_party/vulkan-deps/spirv-headers",
+    "licence": "MIT",
+    "files": [
+      "third_party/vulkan-deps/spirv-headers/LICENSE"
+    ]
+  },
+  {
+    "name": "SPIR-V Tools",
+    "path": "third_party/vulkan-deps/spirv-tools",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/vulkan-deps/spirv-tools/LICENSE"
+    ]
+  },
+  {
+    "name": "Vulkan API headers",
+    "path": "third_party/vulkan-deps/vulkan-headers",
+    "licence": "Apache 2.0",
+    "files": [
+      "third_party/vulkan-deps/vulkan-headers/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Vulkan API headers",
+    "path": "third_party/vulkan-headers",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/vulkan-headers/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Vulkan Loader Components",
+    "path": "third_party/vulkan-loader",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/vulkan-loader/src/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "VulkanMemoryAllocator",
+    "path": "third_party/vulkan_memory_allocator",
+    "licence": "MIT",
+    "files": [
+      "third_party/vulkan_memory_allocator/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Chrome built-in TTS extension WASM bindings",
+    "path": "third_party/wasm_tts_engine",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/wasm_tts_engine/LICENSE"
+    ]
+  },
+  {
+    "name": "Eigen",
+    "path": "third_party/wasm_tts_engine",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/wasm_tts_engine/EIGEN_LICENSE"
+    ]
+  },
+  {
+    "name": "WebRTC",
+    "path": "third_party/webrtc",
+    "licence": "BSD",
+    "files": [
+      "third_party/webrtc/LICENSE"
+    ]
+  },
+  {
+    "name": "General Purpose FFT (Fast Fourier/Cosine/Sine Transform) Package",
+    "path": "third_party/webrtc/common_audio/third_party/ooura",
+    "licence": "Custome license",
+    "files": [
+      "third_party/webrtc/common_audio/third_party/ooura/LICENSE"
+    ]
+  },
+  {
+    "name": "spl sqrt floor",
+    "path": "third_party/webrtc/common_audio/third_party/spl_sqrt_floor",
+    "licence": "SPL-SQRT-FLOOR",
+    "files": [
+      "third_party/webrtc/common_audio/third_party/spl_sqrt_floor/LICENSE"
+    ]
+  },
+  {
+    "name": "fft",
+    "path": "third_party/webrtc/modules/third_party/fft",
+    "licence": "Custom license",
+    "files": [
+      "third_party/webrtc/modules/third_party/fft/LICENSE"
+    ]
+  },
+  {
+    "name": "Portaudio library for mac",
+    "path": "third_party/webrtc/modules/third_party/portaudio",
+    "licence": "MIT",
+    "files": [
+      "third_party/webrtc/modules/third_party/portaudio/LICENSE"
+    ]
+  },
+  {
+    "name": "C++ Signal/Slot Library",
+    "path": "third_party/webrtc/rtc_base/third_party/sigslot",
+    "licence": "Ignorable",
+    "files": [
+      "third_party/webrtc/rtc_base/third_party/sigslot/LICENSE"
+    ]
+  },
+  {
+    "name": "Checked in build outputs generated on Windows.",
+    "path": "third_party/win_build_output",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "LICENSE"
+    ]
+  },
+  {
+    "name": "woff2",
+    "path": "third_party/woff2",
+    "licence": "MIT",
+    "files": [
+      "third_party/woff2/LICENSE"
+    ]
+  },
+  {
+    "name": "Windows Template Library (WTL)",
+    "path": "third_party/wtl",
+    "licence": "MS-PL",
+    "files": [
+      "third_party/wtl/Ms-PL.txt"
+    ]
+  },
+  {
+    "name": "Wuffs (Wrangling Untrusted File Formats Safely)",
+    "path": "third_party/wuffs",
+    "licence": "Apache-2.0",
+    "files": [
+      "third_party/wuffs/src/LICENSE"
+    ]
+  },
+  {
+    "name": "x11proto",
+    "path": "third_party/x11proto",
+    "licence": "MIT",
+    "files": [
+      "third_party/x11proto/LICENSE"
+    ]
+  },
+  {
+    "name": "xdg-utils",
+    "path": "third_party/xdg-utils",
+    "licence": "MIT",
+    "files": [
+      "third_party/xdg-utils/LICENSE"
+    ]
+  },
+  {
+    "name": "XNNPACK",
+    "path": "third_party/xnnpack",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/xnnpack/src/LICENSE"
+    ]
+  },
+  {
+    "name": "zlib",
+    "path": "third_party/zlib",
+    "licence": "Zlib",
+    "files": [
+      "third_party/zlib/LICENSE"
+    ]
+  },
+  {
+    "name": "Zstandard",
+    "path": "third_party/zstd",
+    "licence": "BSD-3-Clause",
+    "files": [
+      "third_party/zstd/src/LICENSE"
+    ]
+  },
+  {
+    "name": "C++ port of zxcvbn, an advanced password strength estimation library.",
+    "path": "third_party/zxcvbn-cpp",
+    "licence": "MIT",
+    "files": [
+      "third_party/zxcvbn-cpp/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "pprof",
+    "path": "tools/mac/power/protos/third_party/pprof",
+    "licence": "Apache-2.0",
+    "files": [
+      "tools/mac/power/protos/third_party/pprof/LICENSE"
+    ]
+  },
+  {
+    "name": "url_parse",
+    "path": "url/third_party/mozilla",
+    "licence": "MPLv2",
+    "files": [
+      "url/third_party/mozilla/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "V8 JavaScript Engine",
+    "path": "v8",
+    "licence": "BSD",
+    "files": [
+      "v8/LICENSE"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+Tasmead Display Tools
+Copyright (c) 2026 Will Crook. All rights reserved.
+
+The Tasmead-specific source code is proprietary. No permission to copy,
+modify, redistribute or sublicense that source code is granted by this
+notice, except by a separate agreement with the copyright holder or as
+required by applicable law.
+
+Third-party software and assets are excluded from this proprietary notice
+and remain available under their own licences. In particular, PySide6,
+Shiboken6 and the included Qt libraries are used under the GNU Lesser
+General Public License, version 3. Other third-party terms are reproduced
+in the accompanying notices and licence files.
+
+Nothing in Tasmead's terms restricts rights granted by those third-party
+licences, including modification or replacement of LGPL components and
+reverse engineering of the combined application for debugging such
+modifications. Previously granted open-source rights are not revoked.
+
+See THIRDPARTYNOTICES.md and licenses (This can also be found in the about page under settings in the app).

@@ -1,0 +1,916 @@
+{
+  "source_archive": "qtwebengine-everywhere-src-6.10.2.tar.xz",
+  "notice_file_count": 6958,
+  "upstream_metadata_entries": 272,
+  "metadata_diagnostics": [
+    {
+      "path": "chrome/installer/mac/third_party/bsdiff",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in chrome/installer/mac/third_party/bsdiff\n"
+    },
+    {
+      "path": "chrome/installer/mac/third_party/xz",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in chrome/installer/mac/third_party/xz\n"
+    },
+    {
+      "path": "chrome/test/data",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in chrome/test/data\n"
+    },
+    {
+      "path": "chrome/third_party/mozilla_security_manager",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in chrome/third_party/mozilla_security_manager\n"
+    },
+    {
+      "path": "ios/third_party/blink",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/blink\n"
+    },
+    {
+      "path": "ios/third_party/earl_grey2",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/earl_grey2\n"
+    },
+    {
+      "path": "ios/third_party/edo",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/edo\n"
+    },
+    {
+      "path": "ios/third_party/fishhook",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/fishhook\n"
+    },
+    {
+      "path": "ios/third_party/gtx",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/gtx\n"
+    },
+    {
+      "path": "ios/third_party/lottie",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/lottie\n"
+    },
+    {
+      "path": "ios/third_party/material_components_ios",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/material_components_ios\n"
+    },
+    {
+      "path": "ios/third_party/material_font_disk_loader_ios",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/material_font_disk_loader_ios\n"
+    },
+    {
+      "path": "ios/third_party/material_internationalization_ios",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/material_internationalization_ios\n"
+    },
+    {
+      "path": "ios/third_party/material_roboto_font_loader_ios",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/material_roboto_font_loader_ios\n"
+    },
+    {
+      "path": "ios/third_party/material_sprited_animation_view_ios",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/material_sprited_animation_view_ios\n"
+    },
+    {
+      "path": "ios/third_party/material_text_accessibility_ios",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/material_text_accessibility_ios\n"
+    },
+    {
+      "path": "ios/third_party/motion_animator_objc",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/motion_animator_objc\n"
+    },
+    {
+      "path": "ios/third_party/motion_interchange_objc",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/motion_interchange_objc\n"
+    },
+    {
+      "path": "ios/third_party/motion_transitioning_objc",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/motion_transitioning_objc\n"
+    },
+    {
+      "path": "ios/third_party/ochamcrest",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/ochamcrest\n"
+    },
+    {
+      "path": "ios/third_party/webkit",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in ios/third_party/webkit\n"
+    },
+    {
+      "path": "third_party/accessibility_test_framework",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/accessibility_test_framework\n"
+    },
+    {
+      "path": "third_party/afl",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/afl\n"
+    },
+    {
+      "path": "third_party/android_build_tools",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/android_build_tools\n"
+    },
+    {
+      "path": "third_party/android_deps",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/android_deps\n"
+    },
+    {
+      "path": "third_party/android_media",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/android_media\n"
+    },
+    {
+      "path": "third_party/android_opengl",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/android_opengl\n"
+    },
+    {
+      "path": "third_party/android_platform",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/android_platform\n"
+    },
+    {
+      "path": "third_party/android_provider",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/android_provider\n"
+    },
+    {
+      "path": "third_party/android_sdk",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/android_sdk\n"
+    },
+    {
+      "path": "third_party/android_swipe_refresh",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/android_swipe_refresh\n"
+    },
+    {
+      "path": "third_party/androidx",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/androidx\n"
+    },
+    {
+      "path": "third_party/androidx_javascriptengine",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/androidx_javascriptengine\n"
+    },
+    {
+      "path": "third_party/angle/src/third_party/khronos",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/angle/src/third_party/khronos\n"
+    },
+    {
+      "path": "third_party/angle/third_party/EGL-Registry",
+      "error": "Errors in third_party/angle/third_party/EGL-Registry/README.chromium:\n License file not found for third_party/angle/third_party/EGL-Registry/README.chromium>>Khronos EGL API and Extension Registry. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/angle/third_party/OpenCL-CTS",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/angle/third_party/OpenCL-CTS\n"
+    },
+    {
+      "path": "third_party/angle/third_party/OpenCL-Docs",
+      "error": "Errors in third_party/angle/third_party/OpenCL-Docs/README.chromium:\n License file not found for third_party/angle/third_party/OpenCL-Docs/README.chromium>>Khronos OpenCL API, OpenCL C, Extensions, SPIR-V Environment Specs, Ref page, and C++ for OpenCL doc sources.. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/angle/third_party/OpenCL-ICD-Loader",
+      "error": "Errors in third_party/angle/third_party/OpenCL-ICD-Loader/README.chromium:\n License file not found for third_party/angle/third_party/OpenCL-ICD-Loader/README.chromium>>Khronos OpenCL ICD Loader. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/angle/third_party/OpenGL-Registry",
+      "error": "Errors in third_party/angle/third_party/OpenGL-Registry/README.chromium:\n License file not found for third_party/angle/third_party/OpenGL-Registry/README.chromium>>Khronos OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/angle/third_party/astc-encoder",
+      "error": "Errors in third_party/angle/third_party/astc-encoder/README.chromium:\n License file not found for third_party/angle/third_party/astc-encoder/README.chromium>>astc-encoder. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/angle/third_party/cpu_features",
+      "error": "Errors in third_party/angle/third_party/cpu_features/README.chromium:\n License file not found for third_party/angle/third_party/cpu_features/README.chromium>>cpu_features. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/angle/third_party/glmark2",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/angle/third_party/glmark2\n"
+    },
+    {
+      "path": "third_party/angle/third_party/kotlin_stdlib",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/angle/third_party/kotlin_stdlib\n"
+    },
+    {
+      "path": "third_party/angle/third_party/llvm-libc",
+      "error": "Errors in third_party/angle/third_party/llvm-libc/README.chromium:\n License file not found for third_party/angle/third_party/llvm-libc/README.chromium>>llvm-libc. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/angle/third_party/mesa",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/angle/third_party/mesa\n"
+    },
+    {
+      "path": "third_party/angle/third_party/minigbm",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/angle/third_party/minigbm\n"
+    },
+    {
+      "path": "third_party/angle/third_party/vulkan-loader",
+      "error": "Errors in third_party/angle/third_party/vulkan-loader/README.chromium:\n License file not found for third_party/angle/third_party/vulkan-loader/README.chromium>>Vulkan Loader Components. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/apache-portable-runtime",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/apache-portable-runtime\n"
+    },
+    {
+      "path": "third_party/ashmem",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/ashmem\n"
+    },
+    {
+      "path": "third_party/beto-core/src/third_party/jsoncpp",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/beto-core/src/third_party/jsoncpp\n"
+    },
+    {
+      "path": "third_party/blink/renderer/platform/testing/data/third_party/Amiri",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/blink/renderer/platform/testing/data/third_party/Amiri\n"
+    },
+    {
+      "path": "third_party/blink/renderer/platform/testing/data/third_party/MEgalopolis",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/blink/renderer/platform/testing/data/third_party/MEgalopolis\n"
+    },
+    {
+      "path": "third_party/boringssl/src/third_party/googletest",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/boringssl/src/third_party/googletest\n"
+    },
+    {
+      "path": "third_party/boringssl/src/third_party/wycheproof_testvectors",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/boringssl/src/third_party/wycheproof_testvectors\n"
+    },
+    {
+      "path": "third_party/breakpad/breakpad/src/third_party/curl",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/breakpad/breakpad/src/third_party/curl\n"
+    },
+    {
+      "path": "third_party/breakpad/breakpad/src/third_party/libdisasm",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/breakpad/breakpad/src/third_party/libdisasm\n"
+    },
+    {
+      "path": "third_party/breakpad/breakpad/src/third_party/linux",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/breakpad/breakpad/src/third_party/linux\n"
+    },
+    {
+      "path": "third_party/breakpad/breakpad/src/third_party/mac_headers",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/breakpad/breakpad/src/third_party/mac_headers\n"
+    },
+    {
+      "path": "third_party/breakpad/breakpad/src/third_party/musl",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/breakpad/breakpad/src/third_party/musl\n"
+    },
+    {
+      "path": "third_party/catapult",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/catapult\n"
+    },
+    {
+      "path": "third_party/catapult/third_party/beautifulsoup4-4.9.3",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/catapult/third_party/beautifulsoup4-4.9.3\n"
+    },
+    {
+      "path": "third_party/catapult/third_party/gsutil",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/catapult/third_party/gsutil\n"
+    },
+    {
+      "path": "third_party/catapult/third_party/polymer-svg-template",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/catapult/third_party/polymer-svg-template\n"
+    },
+    {
+      "path": "third_party/catapult/third_party/typ",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/catapult/third_party/typ\n"
+    },
+    {
+      "path": "third_party/catapult/third_party/vinn",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/catapult/third_party/vinn\n"
+    },
+    {
+      "path": "third_party/catapult/tracing/third_party/jszip",
+      "error": "Errors in third_party/catapult/tracing/third_party/jszip/README.chromium:\n License file not found for third_party/catapult/tracing/third_party/jszip/README.chromium>>JSZip. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/chromevox",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/chromevox\n"
+    },
+    {
+      "path": "third_party/chromevox/third_party/closure-library",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/chromevox/third_party/closure-library\n"
+    },
+    {
+      "path": "third_party/crashpad/crashpad/third_party/libfuzzer",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/crashpad/crashpad/third_party/libfuzzer\n"
+    },
+    {
+      "path": "third_party/crashpad/crashpad/third_party/lss",
+      "error": "Errors in third_party/crashpad/crashpad/third_party/lss/README.crashpad:\n License file not found for third_party/crashpad/crashpad/third_party/lss/README.crashpad>>linux-syscall-support. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/crashpad/crashpad/third_party/zlib",
+      "error": "Errors in third_party/crashpad/crashpad/third_party/zlib/README.crashpad:\n License file not found for third_party/crashpad/crashpad/third_party/zlib/README.crashpad>>zlib. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/dawn/third_party/benchmark_shaders",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/dawn/third_party/benchmark_shaders\n"
+    },
+    {
+      "path": "third_party/dawn/third_party/closure_compiler",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/dawn/third_party/closure_compiler\n"
+    },
+    {
+      "path": "third_party/dawn/third_party/dxc",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/dawn/third_party/dxc\n"
+    },
+    {
+      "path": "third_party/dawn/third_party/emdawnwebgpu",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/dawn/third_party/emdawnwebgpu\n"
+    },
+    {
+      "path": "third_party/dawn/third_party/glfw",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/dawn/third_party/glfw\n"
+    },
+    {
+      "path": "third_party/dawn/third_party/gn",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/dawn/third_party/gn\n"
+    },
+    {
+      "path": "third_party/dawn/third_party/libFuzzer",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/dawn/third_party/libFuzzer\n"
+    },
+    {
+      "path": "third_party/dawn/third_party/libprotobuf-mutator",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/dawn/third_party/libprotobuf-mutator\n"
+    },
+    {
+      "path": "third_party/dawn/third_party/llvm-libc",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/dawn/third_party/llvm-libc\n"
+    },
+    {
+      "path": "third_party/dawn/third_party/vulkan-loader",
+      "error": "Errors in third_party/dawn/third_party/vulkan-loader/README.chromium:\n License file not found for third_party/dawn/third_party/vulkan-loader/README.chromium>>Vulkan Loader Components. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/devtools-frontend/src/front_end/third_party",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/devtools-frontend/src/front_end/third_party\n"
+    },
+    {
+      "path": "third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/cjs/third_party/mitt",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/cjs/third_party/mitt\n"
+    },
+    {
+      "path": "third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/cjs/third_party/parsel-js",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/cjs/third_party/parsel-js\n"
+    },
+    {
+      "path": "third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/cjs/third_party/rxjs",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/cjs/third_party/rxjs\n"
+    },
+    {
+      "path": "third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/esm/third_party/mitt",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/esm/third_party/mitt\n"
+    },
+    {
+      "path": "third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/esm/third_party/parsel-js",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/esm/third_party/parsel-js\n"
+    },
+    {
+      "path": "third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/esm/third_party/rxjs",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/devtools-frontend/src/node_modules/puppeteer-core/lib/esm/third_party/rxjs\n"
+    },
+    {
+      "path": "third_party/devtools-frontend/src/third_party/blink",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/devtools-frontend/src/third_party/blink\n"
+    },
+    {
+      "path": "third_party/devtools-frontend/src/third_party/emscripten-releases",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/devtools-frontend/src/third_party/emscripten-releases\n"
+    },
+    {
+      "path": "third_party/devtools-frontend/src/third_party/node",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/devtools-frontend/src/third_party/node\n"
+    },
+    {
+      "path": "third_party/fuchsia-sdk",
+      "error": "Errors in third_party/fuchsia-sdk/README.chromium:\n License file not found for third_party/fuchsia-sdk/README.chromium>>Fuchsia SDK. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/google-closure-library/third_party/closure",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/google-closure-library/third_party/closure\n"
+    },
+    {
+      "path": "third_party/google_benchmark",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/google_benchmark\n"
+    },
+    {
+      "path": "third_party/google_input_tools",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/google_input_tools\n"
+    },
+    {
+      "path": "third_party/google_toolbox_for_mac",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/google_toolbox_for_mac\n"
+    },
+    {
+      "path": "third_party/grpc",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/grpc\n"
+    },
+    {
+      "path": "third_party/ink/src/third_party/libtess2",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/ink/src/third_party/libtess2\n"
+    },
+    {
+      "path": "third_party/junit",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/junit\n"
+    },
+    {
+      "path": "third_party/libFuzzer",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libFuzzer\n"
+    },
+    {
+      "path": "third_party/libaom/source/libaom/third_party/SVT-AV1",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libaom/source/libaom/third_party/SVT-AV1\n"
+    },
+    {
+      "path": "third_party/libaom/source/libaom/third_party/fastfeat",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libaom/source/libaom/third_party/fastfeat\n"
+    },
+    {
+      "path": "third_party/libaom/source/libaom/third_party/googletest",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libaom/source/libaom/third_party/googletest\n"
+    },
+    {
+      "path": "third_party/libaom/source/libaom/third_party/libwebm",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libaom/source/libaom/third_party/libwebm\n"
+    },
+    {
+      "path": "third_party/libaom/source/libaom/third_party/libyuv",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libaom/source/libaom/third_party/libyuv\n"
+    },
+    {
+      "path": "third_party/libaom/source/libaom/third_party/vector",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libaom/source/libaom/third_party/vector\n"
+    },
+    {
+      "path": "third_party/libaom/source/libaom/third_party/x86inc",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libaom/source/libaom/third_party/x86inc\n"
+    },
+    {
+      "path": "third_party/libavif/src/third_party/iccjpeg",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libavif/src/third_party/iccjpeg\n"
+    },
+    {
+      "path": "third_party/libavif/src/third_party/libyuv",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libavif/src/third_party/libyuv\n"
+    },
+    {
+      "path": "third_party/liblouis",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/liblouis\n"
+    },
+    {
+      "path": "third_party/libphonenumber",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libphonenumber\n"
+    },
+    {
+      "path": "third_party/libunwindstack",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libunwindstack\n"
+    },
+    {
+      "path": "third_party/libvpx/source/libvpx/third_party/googletest",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libvpx/source/libvpx/third_party/googletest\n"
+    },
+    {
+      "path": "third_party/libvpx/source/libvpx/third_party/libwebm",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libvpx/source/libvpx/third_party/libwebm\n"
+    },
+    {
+      "path": "third_party/libvpx/source/libvpx/third_party/libyuv",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libvpx/source/libvpx/third_party/libyuv\n"
+    },
+    {
+      "path": "third_party/libvpx/source/libvpx/third_party/x86inc",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/libvpx/source/libvpx/third_party/x86inc\n"
+    },
+    {
+      "path": "third_party/mediapipe/src/third_party/apple_frameworks",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/mediapipe/src/third_party/apple_frameworks\n"
+    },
+    {
+      "path": "third_party/mediapipe/src/third_party/com_google_audio_tools",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/mediapipe/src/third_party/com_google_audio_tools\n"
+    },
+    {
+      "path": "third_party/mediapipe/src/third_party/com_google_audio_tools/third_party/eigen3",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/mediapipe/src/third_party/com_google_audio_tools/third_party/eigen3\n"
+    },
+    {
+      "path": "third_party/mediapipe/src/third_party/com_google_audio_tools/third_party/fft2d",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/mediapipe/src/third_party/com_google_audio_tools/third_party/fft2d\n"
+    },
+    {
+      "path": "third_party/mediapipe/src/third_party/com_google_audio_tools/third_party/kissfft",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/mediapipe/src/third_party/com_google_audio_tools/third_party/kissfft\n"
+    },
+    {
+      "path": "third_party/mediapipe/src/third_party/flatbuffers",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/mediapipe/src/third_party/flatbuffers\n"
+    },
+    {
+      "path": "third_party/mediapipe/src/third_party/halide",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/mediapipe/src/third_party/halide\n"
+    },
+    {
+      "path": "third_party/mediapipe/src/third_party/prebuilts",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/mediapipe/src/third_party/prebuilts\n"
+    },
+    {
+      "path": "third_party/nearby/src/third_party/json",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/nearby/src/third_party/json\n"
+    },
+    {
+      "path": "third_party/nearby/src/third_party/securemessage",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/nearby/src/third_party/securemessage\n"
+    },
+    {
+      "path": "third_party/nearby/src/third_party/ukey2",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/nearby/src/third_party/ukey2\n"
+    },
+    {
+      "path": "third_party/openscreen/src/buildtools/third_party/libc++",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/openscreen/src/buildtools/third_party/libc++\n"
+    },
+    {
+      "path": "third_party/openscreen/src/buildtools/third_party/libc++abi",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/openscreen/src/buildtools/third_party/libc++abi\n"
+    },
+    {
+      "path": "third_party/openscreen/src/buildtools/third_party/libunwind",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/openscreen/src/buildtools/third_party/libunwind\n"
+    },
+    {
+      "path": "third_party/openscreen/src/third_party/depot_tools",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/openscreen/src/third_party/depot_tools\n"
+    },
+    {
+      "path": "third_party/openscreen/src/third_party/getopt",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/openscreen/src/third_party/getopt\n"
+    },
+    {
+      "path": "third_party/openscreen/src/third_party/googletest",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/openscreen/src/third_party/googletest\n"
+    },
+    {
+      "path": "third_party/openscreen/src/third_party/googleurl",
+      "error": "Errors in third_party/openscreen/src/third_party/googleurl/README.chromium:\n License file not found for third_party/openscreen/src/third_party/googleurl/README.chromium>>googleurl. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/openscreen/src/third_party/libc++",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/openscreen/src/third_party/libc++\n"
+    },
+    {
+      "path": "third_party/openscreen/src/third_party/libc++abi",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/openscreen/src/third_party/libc++abi\n"
+    },
+    {
+      "path": "third_party/openscreen/src/third_party/llvm-libc",
+      "error": "Errors in third_party/openscreen/src/third_party/llvm-libc/README.chromium:\n License file not found for third_party/openscreen/src/third_party/llvm-libc/README.chromium>>llvm-libc. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/openscreen/src/third_party/ninja",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/openscreen/src/third_party/ninja\n"
+    },
+    {
+      "path": "third_party/openscreen/src/third_party/quiche",
+      "error": "Errors in third_party/openscreen/src/third_party/quiche/README.chromium:\n License file not found for third_party/openscreen/src/third_party/quiche/README.chromium>>QUICHE. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/openxr",
+      "error": "Errors in third_party/openxr/README.chromium:\n License file not found for third_party/openxr/README.chromium>>OpenXR SDK. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/openxr",
+      "error": "Errors in third_party/openxr/README.chromium:\n License file not found for third_party/openxr/README.chromium>>JNIPP. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/openxr",
+      "error": "Errors in third_party/openxr/README.chromium:\n License file not found for third_party/openxr/README.chromium>>android-jni-wrappers. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/pdfium/third_party/bigint",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/pdfium/third_party/bigint\n"
+    },
+    {
+      "path": "third_party/pdfium/third_party/fast_float",
+      "error": "Errors in third_party/pdfium/third_party/fast_float/README.pdfium:\n License file not found for third_party/pdfium/third_party/fast_float/README.pdfium>>fast_float. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/pdfium/third_party/llvm-libc",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/pdfium/third_party/llvm-libc\n"
+    },
+    {
+      "path": "third_party/perfetto/protos/third_party/chromium",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/perfetto/protos/third_party/chromium\n"
+    },
+    {
+      "path": "third_party/perfetto/protos/third_party/pprof",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/perfetto/protos/third_party/pprof\n"
+    },
+    {
+      "path": "third_party/perfetto/protos/third_party/simpleperf",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/perfetto/protos/third_party/simpleperf\n"
+    },
+    {
+      "path": "third_party/perfetto/protos/third_party/statsd",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/perfetto/protos/third_party/statsd\n"
+    },
+    {
+      "path": "third_party/protobuf/conformance/third_party/jsoncpp",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/protobuf/conformance/third_party/jsoncpp\n"
+    },
+    {
+      "path": "third_party/protobuf/third_party/utf8_range",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/protobuf/third_party/utf8_range\n"
+    },
+    {
+      "path": "third_party/quic_trace/src/third_party/fonts",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/quic_trace/src/third_party/fonts\n"
+    },
+    {
+      "path": "third_party/quic_trace/src/third_party/glew",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/quic_trace/src/third_party/glew\n"
+    },
+    {
+      "path": "third_party/rust",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/rust\n"
+    },
+    {
+      "path": "third_party/rust/chromium_crates_io/vendor/zerocopy-0.7.35/src/third_party/rust",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/rust/chromium_crates_io/vendor/zerocopy-0.7.35/src/third_party/rust\n"
+    },
+    {
+      "path": "third_party/sentencepiece/src/third_party/darts_clone",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/sentencepiece/src/third_party/darts_clone\n"
+    },
+    {
+      "path": "third_party/sentencepiece/src/third_party/esaxx",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/sentencepiece/src/third_party/esaxx\n"
+    },
+    {
+      "path": "third_party/skia/include/third_party/vulkan",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/include/third_party/vulkan\n"
+    },
+    {
+      "path": "third_party/skia/third_party/angle2",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/angle2\n"
+    },
+    {
+      "path": "third_party/skia/third_party/brotli",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/brotli\n"
+    },
+    {
+      "path": "third_party/skia/third_party/cpu-features",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/cpu-features\n"
+    },
+    {
+      "path": "third_party/skia/third_party/d3d12allocator",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/d3d12allocator\n"
+    },
+    {
+      "path": "third_party/skia/third_party/delaunator",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/delaunator\n"
+    },
+    {
+      "path": "third_party/skia/third_party/dng_sdk",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/dng_sdk\n"
+    },
+    {
+      "path": "third_party/skia/third_party/etc1",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/etc1\n"
+    },
+    {
+      "path": "third_party/skia/third_party/expat",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/expat\n"
+    },
+    {
+      "path": "third_party/skia/third_party/freetype2",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/freetype2\n"
+    },
+    {
+      "path": "third_party/skia/third_party/harfbuzz",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/harfbuzz\n"
+    },
+    {
+      "path": "third_party/skia/third_party/highway",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/highway\n"
+    },
+    {
+      "path": "third_party/skia/third_party/icu",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/icu\n"
+    },
+    {
+      "path": "third_party/skia/third_party/icu4x",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/icu4x\n"
+    },
+    {
+      "path": "third_party/skia/third_party/icu_bidi",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/icu_bidi\n"
+    },
+    {
+      "path": "third_party/skia/third_party/imgui",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/imgui\n"
+    },
+    {
+      "path": "third_party/skia/third_party/libavif",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/libavif\n"
+    },
+    {
+      "path": "third_party/skia/third_party/libgav1",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/libgav1\n"
+    },
+    {
+      "path": "third_party/skia/third_party/libgrapheme",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/libgrapheme\n"
+    },
+    {
+      "path": "third_party/skia/third_party/libjpeg-turbo",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/libjpeg-turbo\n"
+    },
+    {
+      "path": "third_party/skia/third_party/libjxl",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/libjxl\n"
+    },
+    {
+      "path": "third_party/skia/third_party/libpng",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/libpng\n"
+    },
+    {
+      "path": "third_party/skia/third_party/libwebp",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/libwebp\n"
+    },
+    {
+      "path": "third_party/skia/third_party/libyuv",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/libyuv\n"
+    },
+    {
+      "path": "third_party/skia/third_party/lua",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/lua\n"
+    },
+    {
+      "path": "third_party/skia/third_party/native_app_glue",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/native_app_glue\n"
+    },
+    {
+      "path": "third_party/skia/third_party/oboe",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/oboe\n"
+    },
+    {
+      "path": "third_party/skia/third_party/perfetto",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/perfetto\n"
+    },
+    {
+      "path": "third_party/skia/third_party/piex",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/piex\n"
+    },
+    {
+      "path": "third_party/skia/third_party/spirv-cross",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/spirv-cross\n"
+    },
+    {
+      "path": "third_party/skia/third_party/vello",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/vello\n"
+    },
+    {
+      "path": "third_party/skia/third_party/vulkanmemoryallocator",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/vulkanmemoryallocator\n"
+    },
+    {
+      "path": "third_party/skia/third_party/wuffs",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/wuffs\n"
+    },
+    {
+      "path": "third_party/skia/third_party/zlib",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/skia/third_party/zlib\n"
+    },
+    {
+      "path": "third_party/swiftshader/third_party/SPIRV-Headers",
+      "error": "License file not found for ../../../../../../licenses.py SPECIAL_CASES entry for third_party/swiftshader/third_party/SPIRV-Headers>>SPIRV-Headers. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths."
+    },
+    {
+      "path": "third_party/swiftshader/third_party/SPIRV-Tools",
+      "error": "License file not found for ../../../../../../licenses.py SPECIAL_CASES entry for third_party/swiftshader/third_party/SPIRV-Tools>>SPIRV-Tools. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths."
+    },
+    {
+      "path": "third_party/swiftshader/third_party/llvm-10.0",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/swiftshader/third_party/llvm-10.0\n"
+    },
+    {
+      "path": "third_party/swiftshader/third_party/llvm-16.0",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/swiftshader/third_party/llvm-16.0\n"
+    },
+    {
+      "path": "third_party/swiftshader/third_party/marl",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/swiftshader/third_party/marl\n"
+    },
+    {
+      "path": "third_party/tflite",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/tflite\n"
+    },
+    {
+      "path": "third_party/tflite_support/src/third_party/android",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/tflite_support/src/third_party/android\n"
+    },
+    {
+      "path": "third_party/tflite_support/src/third_party/fft2d",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/tflite_support/src/third_party/fft2d\n"
+    },
+    {
+      "path": "third_party/tflite_support/src/third_party/flatbuffers",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/tflite_support/src/third_party/flatbuffers\n"
+    },
+    {
+      "path": "third_party/tflite_support/src/third_party/py",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/tflite_support/src/third_party/py\n"
+    },
+    {
+      "path": "third_party/tflite_support/src/third_party/pybind11_protobuf",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/tflite_support/src/third_party/pybind11_protobuf\n"
+    },
+    {
+      "path": "third_party/tflite_support/src/third_party/python_runtime",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/tflite_support/src/third_party/python_runtime\n"
+    },
+    {
+      "path": "third_party/tflite_support/src/third_party/tensorflow",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/tflite_support/src/third_party/tensorflow\n"
+    },
+    {
+      "path": "third_party/tflite_support/src/third_party/toolchains",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/tflite_support/src/third_party/toolchains\n"
+    },
+    {
+      "path": "third_party/unrar",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/unrar\n"
+    },
+    {
+      "path": "third_party/vulkan-deps/vulkan-loader",
+      "error": "Errors in third_party/vulkan-deps/vulkan-loader/README.chromium:\n License file not found for third_party/vulkan-deps/vulkan-loader/README.chromium>>Vulkan Loader Components. Either add a file named LICENSE, import upstream's COPYING if available, or add a 'License File:' line to README.chromium with the appropriate paths.\n"
+    },
+    {
+      "path": "third_party/wayland",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wayland\n"
+    },
+    {
+      "path": "third_party/wayland-protocols",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wayland-protocols\n"
+    },
+    {
+      "path": "third_party/webgpu-cts/src/standalone/third_party/jquery",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/webgpu-cts/src/standalone/third_party/jquery\n"
+    },
+    {
+      "path": "third_party/webrtc/examples/androidapp/third_party/autobanh",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/webrtc/examples/androidapp/third_party/autobanh\n"
+    },
+    {
+      "path": "third_party/webrtc/examples/objc/AppRTCMobile/third_party/SocketRocket",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/webrtc/examples/objc/AppRTCMobile/third_party/SocketRocket\n"
+    },
+    {
+      "path": "third_party/webrtc/modules/third_party/g711",
+      "error": "Errors in third_party/webrtc/modules/third_party/g711/README.chromium:\n couldn't find 'URL' line in README.chromium or licenses.py SPECIAL_CASES\n"
+    },
+    {
+      "path": "third_party/webrtc/modules/third_party/g722",
+      "error": "Errors in third_party/webrtc/modules/third_party/g722/README.chromium:\n couldn't find 'URL' line in README.chromium or licenses.py SPECIAL_CASES\n"
+    },
+    {
+      "path": "third_party/webrtc/rtc_base/third_party/base64",
+      "error": "Errors in third_party/webrtc/rtc_base/third_party/base64/README.chromium:\n couldn't find 'URL' line in README.chromium or licenses.py SPECIAL_CASES\n"
+    },
+    {
+      "path": "third_party/win_build_output/midl/third_party/iaccessible2",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/win_build_output/midl/third_party/iaccessible2\n"
+    },
+    {
+      "path": "third_party/win_build_output/midl/third_party/isimpledom",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/win_build_output/midl/third_party/isimpledom\n"
+    },
+    {
+      "path": "third_party/wpt_tools/wpt/tools/third_party/atomicwrites",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wpt_tools/wpt/tools/third_party/atomicwrites\n"
+    },
+    {
+      "path": "third_party/wpt_tools/wpt/tools/third_party/h2",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wpt_tools/wpt/tools/third_party/h2\n"
+    },
+    {
+      "path": "third_party/wpt_tools/wpt/tools/third_party/hpack",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wpt_tools/wpt/tools/third_party/hpack\n"
+    },
+    {
+      "path": "third_party/wpt_tools/wpt/tools/third_party/html5lib",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wpt_tools/wpt/tools/third_party/html5lib\n"
+    },
+    {
+      "path": "third_party/wpt_tools/wpt/tools/third_party/hyperframe",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wpt_tools/wpt/tools/third_party/hyperframe\n"
+    },
+    {
+      "path": "third_party/wpt_tools/wpt/tools/third_party/pdf_js",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wpt_tools/wpt/tools/third_party/pdf_js\n"
+    },
+    {
+      "path": "third_party/wpt_tools/wpt/tools/third_party/pywebsocket3",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wpt_tools/wpt/tools/third_party/pywebsocket3\n"
+    },
+    {
+      "path": "third_party/wpt_tools/wpt/tools/third_party/six",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wpt_tools/wpt/tools/third_party/six\n"
+    },
+    {
+      "path": "third_party/wpt_tools/wpt/tools/third_party/webencodings",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wpt_tools/wpt/tools/third_party/webencodings\n"
+    },
+    {
+      "path": "third_party/wpt_tools/wpt/tools/third_party/websockets",
+      "error": "missing third party metadata file or licenses.py SPECIAL_CASES entry in third_party/wpt_tools/wpt/tools/third_party/websockets\n"
+    }
+  ],
+  "scope": "Broad source-release notices, not a frozen-bundle component inventory. Missing/stripped source metadata is recorded, available licence files are retained independently."
+}
